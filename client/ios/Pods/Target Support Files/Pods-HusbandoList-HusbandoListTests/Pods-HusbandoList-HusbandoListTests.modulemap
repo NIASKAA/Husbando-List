@@ -1,0 +1,6 @@
+module Pods_HusbandoList_HusbandoListTests {
+  umbrella header "Pods-HusbandoList-HusbandoListTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
