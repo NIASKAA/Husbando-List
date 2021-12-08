@@ -1,4 +1,5 @@
 import React from 'react'
+import { useNavigation, CommonActions } from '@react-navigation/native';
 import {
     NativeBaseProvider,
     Box,
@@ -17,7 +18,8 @@ import {
 import { MaterialCommunityIcons, MaterialIcons } from '@expo/vector-icons';
 
 const Footer = () => {
-
+    const navigation = useNavigation();
+    
     return (
         <NativeBaseProvider>
             <Box flex={1} bg="white" safeAreaTop>
