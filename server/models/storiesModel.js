@@ -6,7 +6,8 @@ const stories = new mongoose.Schema({
     image: {type: String},
     endings: {type: Number},
     translation: {type: String},
-    release_Date: {type: String}
+    release_Date: {type: String},
+    seasons: {type: Number}
 })
 
 const StoriesModel = mongoose.model("Stories", stories);

@@ -1,4 +1,4 @@
-const {ProfileModel} = require('../models');
+const {ProfileModel, StoriesModel, CharactersModel} = require('../models');
 
 const resolvers = {
     Query: {
@@ -7,6 +7,12 @@ const resolvers = {
                 const user = await ProfileModel.findById(context.user.id)
                 return user;
             }
+        },
+        getStories: async () => {
+            return await StoriesModel.find({});
+        },
+        getCharacter: async () => {
+            return await CharactersModel.find({});
         }
     },
     mutations: {}
