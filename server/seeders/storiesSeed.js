@@ -1,8 +1,16 @@
 const {StoriesModel} = require('../models');
 
 const stories_Seeds = [
-    {
-        characters: [],
+    {   
+        name: '',
+        characters: [
+            {
+                name:'',
+                age: 0,
+                image: '',
+                description: ''
+            }
+        ],
         image: '',
         endings: 2,
         translation: '',
