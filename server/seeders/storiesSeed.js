@@ -2,18 +2,42 @@ const {StoriesModel} = require('../models');
 
 const stories_Seeds = [
     {   
-        name: '',
+        name: 'Dangerous Seduction',
         characters: [
             {
-                name:'',
-                age: 0,
+                name:'Ryuzaki Masaharu',
+                age: 29,
                 image: '',
-                description: ''
-            }
+                description: 'Sniper'
+            },
+            {
+                name:'Yasumi Arimura',
+                age: 28,
+                image: '',
+                description: 'Hacker'
+            },
+            {
+                name:'Haruma Fujioka',
+                age: 30,
+                image: '',
+                description: 'Doctor'
+            },
+            {
+                name:'Asuka Hino',
+                age: 25,
+                image: '',
+                description: 'Spy'
+            },
+            {
+                name:'Kentaro Inui',
+                age: 00,
+                image: '',
+                description: 'Gang Leader'
+            },
         ],
         image: '',
         endings: 2,
-        translation: '',
+        translation: '容疑者たちの甘いたくらみ',
         release_Date: 'May 18, 2016'
     },
 ];
