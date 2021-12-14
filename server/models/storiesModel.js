@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+    const mongoose = require('mongoose');
 const {CharactersModel} = require('./charactersModel');
 
 const stories = new mongoose.Schema({
