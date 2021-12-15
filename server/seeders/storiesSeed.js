@@ -36,9 +36,123 @@ const stories_Seeds = [
             },
         ],
         image: '',
-        endings: 2,
+        seasons: 2,
         translation: '容疑者たちの甘いたくらみ',
         release_Date: 'May 18, 2016'
+    },
+    {   
+        name: 'Liar! Uncover the Truth',
+        characters: [
+            {
+                name:'Haruichi Mamiya',
+                age: 31,
+                image: '',
+                description: 'CEO'
+            },
+            {
+                name:'Sotaro Shiga',
+                age: 29,
+                image: '',
+                description: 'Surgeon'
+            },
+            {
+                name:'Azusa Kurono',
+                age: 27,
+                image: '',
+                description: 'Graphic Designer'
+            },
+            {
+                name:'Keima Katagiri',
+                age: 32,
+                image: '',
+                description: 'Stock Trader'
+            },
+            {
+                name:'Joe Yazawa',
+                age: 32,
+                image: '',
+                description: 'Fashion Designer'
+            },
+            {
+                name:'Itaru Yuikawa',
+                age: 28,
+                image: '',
+                description: 'Foreign Exchange Trader'
+            },
+            {
+                name:'Kazumi Kagami',
+                age: 40,
+                image: '',
+                description: 'Novelist'
+            },
+            {
+                name:'Toya Kashi',
+                age: 28,
+                image: '',
+                description: 'Patisserie'
+            },
+            {
+                name:'Kunio Muroi',
+                age: 38,
+                image: '',
+                description: 'Diplomat'
+            },
+            {
+                name:'Shuto Matsuki',
+                age: 25,
+                image: '',
+                description: 'Soccer Player'
+            },
+        ],
+        image: '',
+        seasons: 3,
+        translation: 'ダウト～嘘つきオトコは誰?',
+        release_Date: 'September 1, 2015'
+    },
+    {   
+        name: 'Era of Samurai: Code of Love',
+        characters: [
+            {
+                name:'Toshizo Hijikata',
+                age: 29,
+                image: '',
+                description: 'Demonic Vice Commander'
+            },
+            {
+                name:'Soji Okita',
+                age: 22,
+                image: '',
+                description: 'Captain'
+            },
+            {
+                name:'Sanosuke Harada',
+                age: 24,
+                image: '',
+                description: 'Captain'
+            },
+            {
+                name:'Hajime Saito',
+                age: 20,
+                image: '',
+                description: 'Captain'
+            },
+            {
+                name:'Isami Kondo',
+                age: 30,
+                image: '',
+                description: 'Commander'
+            },
+            {
+                name:'Shinsaku Taksugi',
+                age: 25,
+                image: '',
+                description: 'Restaurant Owner'
+            }
+        ],
+        image: '',
+        seasons: 2,
+        translation: '新選組が愛した女',
+        release_Date: 'December 1, 2015'
     },
 ];
 
