@@ -11,7 +11,7 @@ const stories = new mongoose.Schema({
     name: {type: String},
     characters: [character],
     image: {type: String},
-    endings: {type: Number},
+    seasons: {type: Number},
     translation: {type: String},
     release_Date: {type: String}
 })

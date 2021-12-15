@@ -36,7 +36,7 @@ const stories_Seeds = [
             },
         ],
         image: '',
-        endings: 2,
+        seasons: 2,
         translation: '容疑者たちの甘いたくらみ',
         release_Date: 'May 18, 2016'
     },
@@ -105,9 +105,54 @@ const stories_Seeds = [
             },
         ],
         image: '',
-        endings: 9,
+        seasons: 3,
         translation: 'ダウト～嘘つきオトコは誰?',
         release_Date: 'September 1, 2015'
+    },
+    {   
+        name: 'Era of Samurai: Code of Love',
+        characters: [
+            {
+                name:'Toshizo Hijikata',
+                age: 29,
+                image: '',
+                description: 'Demonic Vice Commander'
+            },
+            {
+                name:'Soji Okita',
+                age: 22,
+                image: '',
+                description: 'Captain'
+            },
+            {
+                name:'Sanosuke Harada',
+                age: 24,
+                image: '',
+                description: 'Captain'
+            },
+            {
+                name:'Hajime Saito',
+                age: 20,
+                image: '',
+                description: 'Captain'
+            },
+            {
+                name:'Isami Kondo',
+                age: 30,
+                image: '',
+                description: 'Commander'
+            },
+            {
+                name:'Shinsaku Taksugi',
+                age: 25,
+                image: '',
+                description: 'Restaurant Owner'
+            }
+        ],
+        image: '',
+        seasons: 2,
+        translation: '新選組が愛した女',
+        release_Date: 'December 1, 2015'
     },
 ];
 
