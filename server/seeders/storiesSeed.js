@@ -154,6 +154,36 @@ const stories_Seeds = [
         translation: '新選組が愛した女',
         release_Date: 'December 1, 2015'
     },
+    {   
+        name: 'Bad Boys Do It Better!',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '恋愛上等★イケメン学園',
+        release_Date: 'December 9, 2015'
+    },
+    {   
+        name: 'After School Affairs',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '教師たちの秘密の放課後',
+        release_Date: 'September 1, 2015'
+    },
+    {   
+        name: 'Butler Until Midnight',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 2,
+        translation: '深夜0時❤️素顔の執事',
+        release_Date: 'March 24, 2015'
+    },
 ];
 
 const Stories = async () => {

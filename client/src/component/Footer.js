@@ -42,10 +42,33 @@ const Footer = () => {
                             size="sm"
                         />
                         <Text color="white" fontSize="12">
+                            Home
+                        </Text>
+                        </Center>
+                    </Pressable>
+
+                    <Pressable
+                        cursor="pointer"
+                        py="3"
+                        flex={1}
+                        onPress={() => setSelected(0)}>
+                        <Center>
+                        <Icon
+                            mb="1"
+                            as={
+                            <MaterialCommunityIcons
+                                name={selected === 0 ? 'search' : 'home-outline'}
+                            />
+                            }
+                            color="white"
+                            size="sm"
+                        />
+                        <Text color="white" fontSize="12">
                             Search
                         </Text>
                         </Center>
                     </Pressable>
+
                     <Pressable
                         cursor="pointer"
                         py="2"
@@ -60,7 +83,26 @@ const Footer = () => {
                             size="sm"
                         />
                         <Text color="white" fontSize="12">
-                            Favorites
+                            Favorite Stories
+                        </Text>
+                        </Center>
+                    </Pressable>
+
+                    <Pressable
+                        cursor="pointer"
+                        py="2"
+                        flex={1}
+                        onPress={() => setSelected(1)}
+                    >
+                        <Center>
+                        <Icon
+                            mb="1"
+                            as={<MaterialIcons name="search" />}
+                            color="white"
+                            size="sm"
+                        />
+                        <Text color="white" fontSize="12">
+                            Favorite Characters
                         </Text>
                         </Center>
                     </Pressable>
