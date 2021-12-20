@@ -184,6 +184,176 @@ const stories_Seeds = [
         translation: '深夜0時❤️素顔の執事',
         release_Date: 'March 24, 2015'
     },
+    {   
+        name: 'Rose in the Embers',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '大正ロマン、運命の人',
+        release_Date: 'July 3, 2017'
+    },
+    {   
+        name: 'My First Last Kiss',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '大人の初恋はじめます',
+        release_Date: 'March 5, 2015'
+    },
+    {   
+        name: 'Kiss Me on Clover Hill',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: 'ルームシェア★素顔のカレ',
+        release_Date: 'July 1, 2015'
+    },
+    {   
+        name: 'Sakura Amidst Chaos',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '天下統一恋の乱',
+        release_Date: 'October 1, 2014'
+    },
+    {   
+        name: 'My Weddings and 7 Rings',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '誓いのキスと7つの誘惑',
+        release_Date: 'October 28, 2014'
+    },
+    {   
+        name: 'Scandal in the Spotlight',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 4,
+        translation: '偽りの君とスキャンダル',
+        release_Date: 'August 24, 2014'
+    },
+    {   
+        name: 'Star-Crossed Myth',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 2,
+        translation: '恋してしまった星の王子',
+        release_Date: 'August 11, 2014'
+    },
+    {   
+        name: 'Love Brings You Home',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: 'おかえり、僕の好きな人',
+        release_Date: 'December 20, 2014'
+    },
+    {   
+        name: 'Her Love in the Force',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '恋人は公安刑事',
+        release_Date: 'June 30, 2014'
+    },
+    {   
+        name: 'True Love Sweet Lies',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '真実の恋は甘い嘘から',
+        release_Date: 'May 7, 2014'
+    },
+    {   
+        name: 'Finally, in Love Again',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 2,
+        translation: '最後の恋、僕にください',
+        release_Date: 'July 29, 2014'
+    },
+    {   
+        name: 'First Love Diaries',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '湘南初カレDiary',
+        release_Date: 'October 1, 2014'
+    },
+    {   
+        name: '',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '',
+        release_Date: 'October 1, 2014'
+    },
+    {   
+        name: '',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '',
+        release_Date: 'October 1, 2014'
+    },
+    {   
+        name: '',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '',
+        release_Date: 'October 1, 2014'
+    },
+    {   
+        name: '',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '',
+        release_Date: 'October 1, 2014'
+    },
+    {   
+        name: '',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '',
+        release_Date: 'October 1, 2014'
+    },
 ];
 
 const Stories = async () => {
