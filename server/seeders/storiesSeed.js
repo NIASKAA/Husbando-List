@@ -302,7 +302,107 @@ const stories_Seeds = [
         image: '',
         seasons: 1,
         translation: '湘南初カレDiary',
-        release_Date: 'October 1, 2014'
+        release_Date: 'February 27, 2014'
+    },
+    {   
+        name: 'Enchanted in the Moonlight',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '今宵、妖しい口づけを',
+        release_Date: 'February 7, 2014'
+    },
+    {   
+        name: 'Be My Princess',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '王子様のプロポーズ',
+        release_Date: 'March 14, 2012'
+    },
+    {   
+        name: 'Be My Princess 2',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '王子様のプロポーズ2',
+        release_Date: 'January 14, 2014'
+    },
+    {   
+        name: 'Metro PD: Close to You',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '特別捜査★密着24時',
+        release_Date: 'December 17, 2013'
+    },
+    {   
+        name: 'Serendipity Next Door',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: 'お隣さんにご用心',
+        release_Date: 'November 12, 2013'
+    },
+    {   
+        name: 'Kissed By the Baddest Bidder',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 6,
+        translation: 'スイートルームで悪戯なキス',
+        release_Date: 'October 9, 2013'
+    },
+    {   
+        name: 'Class Trip Crush',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '修学旅行★ナイショの恋',
+        release_Date: 'November 8, 2012'
+    },
+    {   
+        name: 'Our Private Homeroom',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 2,
+        translation: '先生と秘密の同居中♡',
+        release_Date: 'September 14, 2017'
+    },
+    {   
+        name: 'Our Two Bedroom Story',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 4,
+        translation: '上司と秘密の2LDK',
+        release_Date: 'January 17, 2014'
+    },
+    {   
+        name: 'Kiss of Revenge',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 2,
+        translation: '復讐のキスをあなたに',
+        release_Date: 'December 6, 2012'
     },
     {   
         name: '',
@@ -354,6 +454,17 @@ const stories_Seeds = [
         translation: '',
         release_Date: 'October 1, 2014'
     },
+    {   
+        name: '',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '',
+        release_Date: 'October 1, 2014'
+    },
+    
 ];
 
 const Stories = async () => {
