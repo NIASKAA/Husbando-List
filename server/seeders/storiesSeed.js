@@ -405,66 +405,145 @@ const stories_Seeds = [
         release_Date: 'December 6, 2012'
     },
     {   
-        name: '',
+        name: 'Ten Days with my Devil',
         characters: [
             
         ],
         image: '',
-        seasons: 3,
-        translation: '',
-        release_Date: 'October 1, 2014'
+        seasons: 1,
+        translation: '悪魔と恋する10日間',
+        release_Date: 'March 13, 2013'
     },
     {   
-        name: '',
+        name: 'Dreamy Days in West Tokyo',
         characters: [
             
         ],
         image: '',
         seasons: 3,
-        translation: '',
-        release_Date: 'October 1, 2014'
+        translation: '吉祥寺★恋色デイズ',
+        release_Date: 'October 10, 2013'
     },
     {   
-        name: '',
+        name: 'Office Secrets',
         characters: [
             
         ],
         image: '',
-        seasons: 3,
-        translation: '',
-        release_Date: 'October 1, 2014'
+        seasons: 1,
+        translation: '社内恋愛2人のヒミツ',
+        release_Date: 'May 20, 2013'
     },
     {   
-        name: '',
+        name: "A Knight's Devotion",
         characters: [
             
         ],
         image: '',
-        seasons: 3,
-        translation: '',
-        release_Date: 'October 1, 2014'
+        seasons: 1,
+        translation: '愛を捧ぐ伝説の騎士',
+        release_Date: 'October 17, 2012'
     },
     {   
-        name: '',
+        name: 'My Sweet Bodyguard',
         characters: [
             
         ],
         image: '',
-        seasons: 3,
-        translation: '',
-        release_Date: 'October 1, 2014'
+        seasons: 1,
+        translation: '恋人は専属SP',
+        release_Date: 'September 21, 2011'
     },
     {   
-        name: '',
+        name: 'Love Letter From Thief X',
         characters: [
             
         ],
         image: '',
         seasons: 3,
-        translation: '',
-        release_Date: 'October 1, 2014'
+        translation: '怪盗Ｘ恋の予告状',
+        release_Date: 'January 6, 2011'
     },
-    
+    {   
+        name: 'When Destiny Comes Knocking',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: 'こんな私のモテ期な日常',
+        release_Date: 'June 6, 2017'
+    },
+    {   
+        name: 'In Your Arms Tonight',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '今夜アナタと眠りたい',
+        release_Date: 'July 3, 2012'
+    },
+    {   
+        name: 'In Your Arms Tonight 2',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '今夜アナタと眠りたい 2',
+        release_Date: 'May 5, 2014'
+    },
+    {   
+        name: 'Seduced in the Sleepless City',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 3,
+        translation: '眠らぬ街のシンデレラ',
+        release_Date: 'February 27, 2012'
+    },
+    {   
+        name: 'My Forged Wedding',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 5,
+        translation: '誓いのキスは突然に',
+        release_Date: 'December 12, 2011'
+    },
+    {   
+        name: 'Pirates in Love',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '恋に落ちた海賊王',
+        release_Date: 'July 29, 2011'
+    },
+    {   
+        name: 'Diary of Step-Sister',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: '恋人は同居人',
+        release_Date: 'January 21, 2015'
+    },
+    {   
+        name: 'Celebrity Darling',
+        characters: [
+            
+        ],
+        image: '',
+        seasons: 1,
+        translation: 'ダーリンは芸能人',
+        release_Date: 'December 12, 2008'
+    },
 ];
 
 const Stories = async () => {
