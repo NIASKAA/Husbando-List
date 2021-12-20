@@ -1,10 +1,17 @@
 const mongoose = require('mongoose');
-const {CharactersModel} = require('./charactersModel');
+
+const character = new mongoose.Schema({
+    name: {type: String},
+    age: {type: Number},
+    image: {type: String},
+    description: {type: String},
+});
 
 const stories = new mongoose.Schema({
-    characters: [CharactersModel],
+    name: {type: String},
+    characters: [character],
     image: {type: String},
-    endings: {type: Number},
+    seasons: {type: Number},
     translation: {type: String},
     release_Date: {type: String},
     seasons: {type: Number}
