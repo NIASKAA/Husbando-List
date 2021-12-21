@@ -157,7 +157,42 @@ const stories_Seeds = [
     {   
         name: 'Bad Boys Do It Better!',
         characters: [
-            
+            {
+                name: 'Ryoju Ryukai',
+                age: 00,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Rei Todo',
+                age: 00,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yu Agatsuma',
+                age: 00,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Akira Sakaki',
+                age: 00,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kiichiro Minase',
+                age: 00,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yuki Saejima',
+                age: 00,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -167,7 +202,42 @@ const stories_Seeds = [
     {   
         name: 'After School Affairs',
         characters: [
-            
+            {
+                name: 'Shinichi Kagari',
+                age: 29,
+                image: '',
+                description: 'Math teacher'
+            },
+            {
+                name: 'Kiyonori Taishi',
+                age: 28,
+                image: '',
+                description: 'Japanese history teacher'
+            },
+            {
+                name: 'Rikiya Mononobe',
+                age: 29,
+                image: '',
+                description: 'Science teacher'
+            },
+            {
+                name: 'Hidetaka Sera',
+                age: 27,
+                image: '',
+                description: 'English teacher'
+            },
+            {
+                name: 'Kenzo Yusukawa',
+                age: 30,
+                image: '',
+                description: 'School nurse'
+            },
+            {
+                name: 'Chiharu Utsumi',
+                age: 17,
+                image: '',
+                description: 'Student'
+            },
         ],
         image: '',
         seasons: 3,
@@ -177,7 +247,48 @@ const stories_Seeds = [
     {   
         name: 'Butler Until Midnight',
         characters: [
-            
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 2,
