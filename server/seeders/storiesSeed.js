@@ -248,46 +248,34 @@ const stories_Seeds = [
         name: 'Butler Until Midnight',
         characters: [
             {
-                name: '',
-                age: 5,
+                name: 'Yuma Akagi',
+                age: 00,
                 image: '',
-                description: ''
+                description: 'Charismatic but insulting and smug towards you'
             },
             {
-                name: '',
-                age: 5,
+                name: 'Aoi Shirafuji',
+                age: 00,
                 image: '',
-                description: ''
+                description: 'Gentle but coldness behind his facade'
             },
             {
-                name: '',
-                age: 5,
+                name: 'Tomoki Matsuba',
+                age: 00,
                 image: '',
-                description: ''
+                description: 'Cultured but sharp-tongued'
             },
             {
-                name: '',
-                age: 5,
+                name: 'Kyo Aizawa',
+                age: 00,
                 image: '',
-                description: ''
+                description: 'Quiet but hiding something in his heart'
             },
             {
-                name: '',
-                age: 5,
+                name: 'Itsuki Matsuba',
+                age: 00,
                 image: '',
-                description: ''
-            },
-            {
-                name: '',
-                age: 5,
-                image: '',
-                description: ''
-            },
-            {
-                name: '',
-                age: 5,
-                image: '',
-                description: ''
+                description: "Tomoki's younger brother who can put people at ease"
             },
         ],
         image: '',
@@ -298,7 +286,36 @@ const stories_Seeds = [
     {   
         name: 'Rose in the Embers',
         characters: [
-            
+            {
+                name: 'Kyosuke Takatsukasa',
+                age: 00,
+                image: '',
+                description: 'Skillful businessman and leader'
+            },
+            {
+                name: 'Takahisa Togo',
+                age: 00,
+                image: '',
+                description: 'Fearsome soldier'
+            },
+            {
+                name: 'Misao Higuchi',
+                age: 00,
+                image: '',
+                description: 'Ukiyo-e artist'
+            },
+            {
+                name: 'Tsukumo Kobayakawa',
+                age: 00,
+                image: '',
+                description: 'Enigmatic author'
+            },
+            {
+                name: 'Atsuro Shibusawa',
+                age: 00,
+                image: '',
+                description: 'Owner of Omurice Cafe'
+            },
         ],
         image: '',
         seasons: 1,
@@ -308,7 +325,48 @@ const stories_Seeds = [
     {   
         name: 'My First Last Kiss',
         characters: [
-            
+            {
+                name: 'Ayato Hidaka',
+                age: 5,
+                image: '',
+                description: 'Coming actor'
+            },
+            {
+                name: 'Ichiya Misono',
+                age: 5,
+                image: '',
+                description: 'Loner'
+            },
+            {
+                name: 'Makoto Morimachi',
+                age: 5,
+                image: '',
+                description: "Oldest of the group and Riku's older brother"
+            },
+            {
+                name: 'Takamuni Kitami',
+                age: 5,
+                image: '',
+                description: 'Professional soccer player'
+            },
+            {
+                name: 'Riku Morimachi',
+                age: 5,
+                image: '',
+                description: "Makoto's younger brother"
+            },
+            {
+                name: 'Hiroki Eniwa',
+                age: 5,
+                image: '',
+                description: 'Your first love'
+            },
+            {
+                name: 'Rin Yakumo',
+                age: 5,
+                image: '',
+                description: 'Friends in high school'
+            },
         ],
         image: '',
         seasons: 3,
@@ -318,7 +376,54 @@ const stories_Seeds = [
     {   
         name: 'Kiss Me on Clover Hill',
         characters: [
-            
+            {
+                name: 'Soichi Kiyota',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Bunta Kurimaki',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yusuke Sakuraba',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Chihiro Kikuhara',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Shokichi Kuramoto',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'kazuto Horai',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Daisuke Asahina',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Akio Tsubaki',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -328,7 +433,84 @@ const stories_Seeds = [
     {   
         name: 'Sakura Amidst Chaos',
         characters: [
-            
+            {
+                name: 'Nobunaga Oda',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kenshi Uesugi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Ieyasu Tokugawa',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yukimura Sanada',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Masamune Date',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'M<itsuhide Akechi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kenetsugu Nanoe',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Saizou Kirigakure',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Mitsunari Ishida',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kojurou Katakura',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kiyomasa Katou',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Takeda Shigen',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Hanzou Hattori',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -338,7 +520,48 @@ const stories_Seeds = [
     {   
         name: 'My Weddings and 7 Rings',
         characters: [
-            
+            {
+                name: 'Asahi Kakyouin',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yamato Kougami',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Junta Nikaido',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Hiroto Chitose',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Ren Shibasaki',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kai Fujisawa',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Seiichirou Hayami',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -348,7 +571,54 @@ const stories_Seeds = [
     {   
         name: 'Scandal in the Spotlight',
         characters: [
-            
+            {
+                name: 'Kyohei Rikudoh',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Iori Enjo',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kota Igarashi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Nagito Aoshima',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Takashi Ninagawa',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Ryo Chibana',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Ritsuto Ena',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Fumito Ena',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 4,
@@ -358,7 +628,78 @@ const stories_Seeds = [
     {   
         name: 'Star-Crossed Myth',
         characters: [
-            
+            {
+                name: 'Leon',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Scorpio',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Teorus',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Dui',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Huedhaut',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Ichthys',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Karno',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Zyglavis',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Aigonorus',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Krioff',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Tauxolouve',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Partheno',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 2,
@@ -368,7 +709,30 @@ const stories_Seeds = [
     {   
         name: 'Love Brings You Home',
         characters: [
-            
+            {
+                name: 'Inami Taiyo',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yuki Arata',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kurusu Liam',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Tojyo Hazuki',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -378,7 +742,48 @@ const stories_Seeds = [
     {   
         name: 'Her Love in the Force',
         characters: [
-            
+            {
+                name: 'Seiji Goto',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Hyogo Kaga',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Hideki Ishigami',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Shusuke Soma',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Ayumu Shinonome',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Jin Namba',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Toru Kurosawa',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 3,
@@ -388,7 +793,36 @@ const stories_Seeds = [
     {   
         name: 'True Love Sweet Lies',
         characters: [
-            
+            {
+                name: 'Kiyoharu Nanahoshi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Sakuya Nanahoshi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Rui Wakaba',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Naomasa Sakura',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Nozomu Fuse',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -398,7 +832,48 @@ const stories_Seeds = [
     {   
         name: 'Finally, in Love Again',
         characters: [
-            
+            {
+                name: 'Aki Fuhishima',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Shuichiro Momoi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Sosuke Kikuchi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yoh Kobayakawa',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yuto Tsuruya',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kazuki Serizawa',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kanta Tachibana',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 2,
@@ -408,7 +883,42 @@ const stories_Seeds = [
     {   
         name: 'First Love Diaries',
         characters: [
-            
+            {
+                name: 'Nao Fujimori',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yuya Abe',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Mahiro Nanase',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Sota Yamamoto',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Mitsuru Sanada',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Masato Asakura',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -418,7 +928,48 @@ const stories_Seeds = [
     {   
         name: 'Enchanted in the Moonlight',
         characters: [
-            
+            {
+                name: 'Miyabi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Chikage',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Shinra',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kyoga',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yukinojo',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Samon',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kiryu',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 3,
@@ -428,7 +979,54 @@ const stories_Seeds = [
     {   
         name: 'Be My Princess',
         characters: [
-            
+            {
+                name: 'Wilfred A. Spencer',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Joshua Lieben',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Keith Alford',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Roberto Button',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Glenn J. Casiraghi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Edward Levaincois',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Zain',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Yako Chernenkov',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -438,7 +1036,54 @@ const stories_Seeds = [
     {   
         name: 'Be My Princess 2',
         characters: [
-            
+            {
+                name: 'Hayden A. Spencer',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kuon J. Casiraghi',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Sieg Lieben',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Oliver Button',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Ivan Chernenkov',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Aslan Mafdir',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Kevin A. Alford',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: 'Maximillion Levaincois',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
@@ -448,7 +1093,54 @@ const stories_Seeds = [
     {   
         name: 'Metro PD: Close to You',
         characters: [
-            
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
+            {
+                name: '',
+                age: 5,
+                image: '',
+                description: ''
+            },
         ],
         image: '',
         seasons: 1,
