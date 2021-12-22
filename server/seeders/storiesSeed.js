@@ -7,31 +7,31 @@ const stories_Seeds = [
             {
                 name:'Ryuzaki Masaharu',
                 age: 29,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207352/dangerousSeduction/Masaharu_Ryuzaki_-_Profile_fzymoa.jpg',
                 description: 'Sniper'
             },
             {
                 name:'Yasumi Arimura',
                 age: 28,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207188/dangerousSeduction/Yasumi_brx4vx.png',
                 description: 'Hacker'
             },
             {
                 name:'Haruma Fujioka',
                 age: 30,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207188/dangerousSeduction/Haruma_mt20xt.png',
                 description: 'Doctor'
             },
             {
                 name:'Asuka Hino',
                 age: 25,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207352/dangerousSeduction/Asuka_profile_v3xnjs.jpg',
                 description: 'Spy'
             },
             {
                 name:'Kentaro Inui',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207188/dangerousSeduction/Kentaro_nzaeh0.png',
                 description: 'Gang Leader'
             },
         ],
@@ -46,61 +46,61 @@ const stories_Seeds = [
             {
                 name:'Haruichi Mamiya',
                 age: 31,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207479/liar/Haruichi_ealqst.png',
                 description: 'CEO'
             },
             {
                 name:'Sotaro Shiga',
                 age: 29,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207480/liar/Sotaro_nwfyhi.png',
                 description: 'Surgeon'
             },
             {
                 name:'Azusa Kurono',
                 age: 27,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207480/liar/Azusa_agwb19.png',
                 description: 'Graphic Designer'
             },
             {
                 name:'Keima Katagiri',
                 age: 32,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207479/liar/Keima_dvqilk.png',
                 description: 'Stock Trader'
             },
             {
                 name:'Joe Yazawa',
                 age: 32,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207479/liar/Joe_nnf2hb.png',
                 description: 'Fashion Designer'
             },
             {
                 name:'Itaru Yuikawa',
                 age: 28,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207479/liar/Itaru_kotxxd.png',
                 description: 'Foreign Exchange Trader'
             },
             {
                 name:'Kazumi Kagami',
                 age: 40,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207479/liar/Kazumi_vgwhfk.png',
                 description: 'Novelist'
             },
             {
                 name:'Toya Kashi',
                 age: 28,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207480/liar/Toya_dxrjdo.png',
                 description: 'Patisserie'
             },
             {
                 name:'Kunio Muroi',
                 age: 38,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207480/liar/Kunio_xhqmut.png',
                 description: 'Diplomat'
             },
             {
                 name:'Shuto Matsuki',
                 age: 25,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207480/liar/Shuto_zdejyq.png',
                 description: 'Soccer Player'
             },
         ],
@@ -115,37 +115,37 @@ const stories_Seeds = [
             {
                 name:'Toshizo Hijikata',
                 age: 29,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207808/samurai/Toshizo_Hijikata_hkffmy.png',
                 description: 'Demonic Vice Commander'
             },
             {
                 name:'Soji Okita',
                 age: 22,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207808/samurai/Soji_Okita_awsigu.png',
                 description: 'Captain'
             },
             {
                 name:'Sanosuke Harada',
                 age: 24,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207808/samurai/Sanosuke_Harada_gn9mku.png',
                 description: 'Captain'
             },
             {
                 name:'Hajime Saito',
                 age: 20,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207808/samurai/Hajime_Saito_tdpfoi.png',
                 description: 'Captain'
             },
             {
                 name:'Isami Kondo',
                 age: 30,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207808/samurai/Isami_Kondo_cmhuci.png',
                 description: 'Commander'
             },
             {
                 name:'Shinsaku Taksugi',
                 age: 25,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640207808/samurai/Shinsaku_Takasugi_fr8jwr.png',
                 description: 'Restaurant Owner'
             }
         ],
