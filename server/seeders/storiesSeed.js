@@ -35,7 +35,7 @@ const stories_Seeds = [
                 description: 'Gang Leader'
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127389/Dangerous_Seduction_pspou3.jpg',
         seasons: 2,
         translation: '容疑者たちの甘いたくらみ',
         release_Date: 'May 18, 2016'
@@ -104,7 +104,7 @@ const stories_Seeds = [
                 description: 'Soccer Player'
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127392/Liar_Uncover_the_Truth_-_Title_kylnru.png',
         seasons: 3,
         translation: 'ダウト～嘘つきオトコは誰?',
         release_Date: 'September 1, 2015'
@@ -149,7 +149,7 @@ const stories_Seeds = [
                 description: 'Restaurant Owner'
             }
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127389/Era_of_Samurai_Code_of_Love_-_Title_id7rfp.jpg',
         seasons: 2,
         translation: '新選組が愛した女',
         release_Date: 'December 1, 2015'
@@ -194,7 +194,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127389/Bad_Boys_Do_it_Better_-_Title_ny77kx.jpg',
         seasons: 1,
         translation: '恋愛上等★イケメン学園',
         release_Date: 'December 9, 2015'
@@ -239,7 +239,7 @@ const stories_Seeds = [
                 description: 'Student'
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/After_School_Affairs_Title_m4elhq.jpg',
         seasons: 3,
         translation: '教師たちの秘密の放課後',
         release_Date: 'September 1, 2015'
@@ -278,7 +278,7 @@ const stories_Seeds = [
                 description: "Tomoki's younger brother who can put people at ease"
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Butler_Until_Midnight_-_Title_rjzz1g.png',
         seasons: 2,
         translation: '深夜0時❤️素顔の執事',
         release_Date: 'March 24, 2015'
@@ -317,7 +317,7 @@ const stories_Seeds = [
                 description: 'Owner of Omurice Cafe'
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127393/Rose_in_The_Embers_-_Title_l8oyqk.png',
         seasons: 1,
         translation: '大正ロマン、運命の人',
         release_Date: 'July 3, 2017'
@@ -368,7 +368,7 @@ const stories_Seeds = [
                 description: 'Friends in high school'
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127394/My_Last_First_Kiss_-_Title_e3lqnk.png',
         seasons: 3,
         translation: '大人の初恋はじめます',
         release_Date: 'March 5, 2015'
@@ -425,7 +425,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Kiss_Me_on_Clover_Hill_-_Title_ce46ya.jpg',
         seasons: 1,
         translation: 'ルームシェア★素顔のカレ',
         release_Date: 'July 1, 2015'
@@ -512,7 +512,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127394/Tenka_Touitsu_Koi_no_Ran_Title_bla6sv.jpg',
         seasons: 1,
         translation: '天下統一恋の乱',
         release_Date: 'October 1, 2014'
@@ -563,7 +563,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127417/ijhwyipqtzmc4kum4ki3.jpg',
         seasons: 1,
         translation: '誓いのキスと7つの誘惑',
         release_Date: 'October 28, 2014'
@@ -620,7 +620,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127393/Scandal_in_the_Spotlight_tdqgk7.jpg',
         seasons: 4,
         translation: '偽りの君とスキャンダル',
         release_Date: 'August 24, 2014'
@@ -701,7 +701,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127394/Star-Crossed_Myth_teb3vo.png',
         seasons: 2,
         translation: '恋してしまった星の王子',
         release_Date: 'August 11, 2014'
@@ -734,7 +734,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127392/Love_Brings_You_Home_-_Title_tnzkh4.png',
         seasons: 1,
         translation: 'おかえり、僕の好きな人',
         release_Date: 'December 20, 2014'
@@ -785,7 +785,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127390/Her_Love_in_the_Force_Title_wpwbeh.jpg',
         seasons: 3,
         translation: '恋人は公安刑事',
         release_Date: 'June 30, 2014'
@@ -824,7 +824,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127395/True_Love_Sweet_Lies_Start_ygvgdq.png',
         seasons: 1,
         translation: '真実の恋は甘い嘘から',
         release_Date: 'May 7, 2014'
@@ -875,7 +875,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127390/Finally_2C_in_Love_Again_lmfbsp.jpg',
         seasons: 2,
         translation: '最後の恋、僕にください',
         release_Date: 'July 29, 2014'
@@ -920,7 +920,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/First_Love_Diaries_-_A_Kiss_on_the_Beach_uptqkb.png',
         seasons: 1,
         translation: '湘南初カレDiary',
         release_Date: 'February 27, 2014'
@@ -971,7 +971,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Koyoi_Start_hxnar6.png',
         seasons: 3,
         translation: '今宵、妖しい口づけを',
         release_Date: 'February 7, 2014'
@@ -1028,7 +1028,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127392/Be_My_Princess_Title_f7zkxf.png',
         seasons: 1,
         translation: '王子様のプロポーズ',
         release_Date: 'March 14, 2012'
@@ -1085,7 +1085,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127390/Be_My_Princess_2_Title.PNG_t6bhxr.png',
         seasons: 1,
         translation: '王子様のプロポーズ2',
         release_Date: 'January 14, 2014'
@@ -1142,7 +1142,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/Mpd_start_uh4em1.png',
         seasons: 1,
         translation: '特別捜査★密着24時',
         release_Date: 'December 17, 2013'
@@ -1181,7 +1181,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127394/Sereny_fqslyg.jpg',
         seasons: 1,
         translation: 'お隣さんにご用心',
         release_Date: 'November 12, 2013'
@@ -1244,7 +1244,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Kissed_ykvf0z.png',
         seasons: 6,
         translation: 'スイートルームで悪戯なキス',
         release_Date: 'October 9, 2013'
@@ -1295,7 +1295,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127390/CCL_zybjss.png',
         seasons: 3,
         translation: '修学旅行★ナイショの恋',
         release_Date: 'November 8, 2012'
@@ -1322,7 +1322,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/3F_3F_3F_3F_3F_3F_3F_3F_3F_-_Title_s9w2ha.jpg',
         seasons: 2,
         translation: '先生と秘密の同居中♡',
         release_Date: 'September 14, 2017'
@@ -1385,7 +1385,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/2LDK_mg05jc.png',
         seasons: 4,
         translation: '上司と秘密の2LDK',
         release_Date: 'January 17, 2014'
@@ -1424,7 +1424,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Kiss_of_Revenge_Title_xjjb3i.jpg',
         seasons: 2,
         translation: '復讐のキスをあなたに',
         release_Date: 'December 6, 2012'
@@ -1475,7 +1475,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/10dayswithmydevil_ahdgs9.jpg',
         seasons: 1,
         translation: '悪魔と恋する10日間',
         release_Date: 'March 13, 2013'
@@ -1532,7 +1532,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/Drmy_ksffdg.png',
         seasons: 3,
         translation: '吉祥寺★恋色デイズ',
         release_Date: 'October 10, 2013'
@@ -1583,7 +1583,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127393/Office_Secrets_Title_mtjorg.jpg',
         seasons: 1,
         translation: '社内恋愛2人のヒミツ',
         release_Date: 'May 20, 2013'
@@ -1622,7 +1622,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/A_Knight_s_Devotion_u6ob7o.jpg',
         seasons: 1,
         translation: '愛を捧ぐ伝説の騎士',
         release_Date: 'October 17, 2012'
@@ -1691,7 +1691,7 @@ const stories_Seeds = [
                 description: ''
             }
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Koibitosp_ierhwe.png',
         seasons: 1,
         translation: '恋人は専属SP',
         release_Date: 'September 21, 2011'
@@ -1754,7 +1754,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127392/Love_Letter_From_Thief_X_Title_twa7ie.jpg',
         seasons: 3,
         translation: '怪盗Ｘ恋の予告状',
         release_Date: 'January 6, 2011'
@@ -1793,7 +1793,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127394/When_Destiny_Comes_Knocking_-_Title_wuvrwt.png',
         seasons: 1,
         translation: 'こんな私のモテ期な日常',
         release_Date: 'June 6, 2017'
@@ -1856,7 +1856,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127390/IYAT_fyqvj8.jpg',
         seasons: 1,
         translation: '今夜アナタと眠りたい',
         release_Date: 'July 3, 2012'
@@ -1901,7 +1901,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127392/IYAT2_-_Title_idqhi4.png',
         seasons: 1,
         translation: '今夜アナタと眠りたい 2',
         release_Date: 'May 5, 2014'
@@ -1964,7 +1964,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127395/Seduced_Start_wblhcu.png',
         seasons: 3,
         translation: '眠らぬ街のシンデレラ',
         release_Date: 'February 27, 2012'
@@ -2033,7 +2033,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127393/Myforgedwedding_m3ivfn.png',
         seasons: 5,
         translation: '誓いのキスは突然に',
         release_Date: 'December 12, 2011'
@@ -2090,7 +2090,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127418/fqnlgpxbivqje4zawblg.png',
         seasons: 1,
         translation: '恋に落ちた海賊王',
         release_Date: 'July 29, 2011'
@@ -2129,7 +2129,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Koihito_wa_D_3Fkyonin_-_Title_bxdtxf.jpg',
         seasons: 1,
         translation: '恋人は同居人',
         release_Date: 'January 21, 2015'
@@ -2210,7 +2210,7 @@ const stories_Seeds = [
                 description: ''
             },
         ],
-        image: '',
+        image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127390/Celebrily_Darling_-_Title_tgwpgn.png',
         seasons: 1,
         translation: 'ダーリンは芸能人',
         release_Date: 'December 12, 2008'
