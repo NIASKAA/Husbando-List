@@ -160,38 +160,38 @@ const stories_Seeds = [
             {
                 name: 'Ryoju Ryukai',
                 age: 00,
-                image: '',
-                description: ''
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208013/bad%20boys/Ryoji_Ryukai_mqahdz.png',
+                description: 'King of the bad boys'
             },
             {
                 name: 'Rei Todo',
                 age: 00,
-                image: '',
-                description: ''
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208013/bad%20boys/Rei_Todo_c9ibxl.png',
+                description: 'The "cursed student"'
             },
             {
                 name: 'Yu Agatsuma',
                 age: 00,
-                image: '',
-                description: ''
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208013/bad%20boys/Yu_Agatsuma_zuw2j2.png',
+                description: 'Basketball fanatic'
             },
             {
                 name: 'Akira Sakaki',
                 age: 00,
-                image: '',
-                description: ''
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208013/bad%20boys/Akira_Sakaki_itwuao.png',
+                description: 'Playboy'
             },
             {
-                name: 'Kiichiro Minase',
+                name: 'Keiichiro Minase',
                 age: 00,
-                image: '',
-                description: ''
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208013/bad%20boys/Keiichiro_Minase_xtl2rq.png',
+                description: 'Brusque'
             },
             {
                 name: 'Yuki Saejima',
                 age: 00,
-                image: '',
-                description: ''
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208093/bad%20boys/Yuki_Saejima_knkrrv.png',
+                description: 'Coming soon...'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127389/Bad_Boys_Do_it_Better_-_Title_ny77kx.jpg',
@@ -205,37 +205,37 @@ const stories_Seeds = [
             {
                 name: 'Shinichi Kagari',
                 age: 29,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208293/afterschool%20affairs/Shinichi_wfpxkl.png',
                 description: 'Math teacher'
             },
             {
                 name: 'Kiyonori Taishi',
                 age: 28,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208293/afterschool%20affairs/Kiyonori_lx6vyn.png',
                 description: 'Japanese history teacher'
             },
             {
                 name: 'Rikiya Mononobe',
                 age: 29,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208294/afterschool%20affairs/Rikiya_guzirl.png',
                 description: 'Science teacher'
             },
             {
                 name: 'Hidetaka Sera',
                 age: 27,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208293/afterschool%20affairs/Hidetaka_smyrwt.png',
                 description: 'English teacher'
             },
             {
                 name: 'Kenzo Yusukawa',
                 age: 30,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208293/afterschool%20affairs/Kenzo_npgymq.png',
                 description: 'School nurse'
             },
             {
                 name: 'Chiharu Utsumi',
                 age: 17,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208293/afterschool%20affairs/Chiharu_rnhn3r.png',
                 description: 'Student'
             },
         ],
@@ -250,31 +250,31 @@ const stories_Seeds = [
             {
                 name: 'Yuma Akagi',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208720/butler/Yuma_uc4yuw.png',
                 description: 'Charismatic but insulting and smug towards you'
             },
             {
                 name: 'Aoi Shirafuji',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208720/butler/Aoii_ly7clg.png',
                 description: 'Gentle but coldness behind his facade'
             },
             {
                 name: 'Tomoki Matsuba',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208720/butler/Tomoki_bikyjr.png',
                 description: 'Cultured but sharp-tongued'
             },
             {
                 name: 'Kyo Aizawa',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208720/butler/Kyo_pleycb.png',
                 description: 'Quiet but hiding something in his heart'
             },
             {
                 name: 'Itsuki Matsuba',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208720/butler/Itsuki_dcfxme.png',
                 description: "Tomoki's younger brother who can put people at ease"
             },
         ],
@@ -289,31 +289,31 @@ const stories_Seeds = [
             {
                 name: 'Kyosuke Takatsukasa',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208894/ember/Kyosuke_headshot_vlpmow.png',
                 description: 'Skillful businessman and leader'
             },
             {
                 name: 'Takahisa Togo',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208894/ember/Takahisa_headshot_hzqosn.png',
                 description: 'Fearsome soldier'
             },
             {
                 name: 'Misao Higuchi',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208894/ember/Misao_pr8vm6.png',
                 description: 'Ukiyo-e artist'
             },
             {
                 name: 'Tsukumo Kobayakawa',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208894/ember/Tsukumo_yymand.png',
                 description: 'Enigmatic author'
             },
             {
                 name: 'Atsuro Shibusawa',
                 age: 00,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208894/ember/Atsuro_g0rpnf.png',
                 description: 'Owner of Omurice Cafe'
             },
         ],
@@ -328,43 +328,43 @@ const stories_Seeds = [
             {
                 name: 'Ayato Hidaka',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208990/first%20last%20kiss/Ayato_aepuvg.png',
                 description: 'Coming actor'
             },
             {
                 name: 'Ichiya Misono',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208990/first%20last%20kiss/Ichiya_zobvld.png',
                 description: 'Loner'
             },
             {
                 name: 'Makoto Morimachi',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208990/first%20last%20kiss/Makoto_vton07.png',
                 description: "Oldest of the group and Riku's older brother"
             },
             {
-                name: 'Takamuni Kitami',
+                name: 'Takamune Kitami',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208990/first%20last%20kiss/Takamune_ghrhyb.png',
                 description: 'Professional soccer player'
             },
             {
                 name: 'Riku Morimachi',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208990/first%20last%20kiss/Riku_npzv0o.png',
                 description: "Makoto's younger brother"
             },
             {
                 name: 'Hiroki Eniwa',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208990/first%20last%20kiss/Hiroki_nulfnj.png',
                 description: 'Your first love'
             },
             {
                 name: 'Rin Yakumo',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640208990/first%20last%20kiss/Riku_npzv0o.png',
                 description: 'Friends in high school'
             },
         ],
@@ -378,51 +378,51 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Soichi Kiyota',
-                age: 5,
-                image: '',
-                description: ''
+                age: 21,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209231/clover%20hill/Soichi_mcupm1.png',
+                description: 'Architect'
             },
             {
                 name: 'Bunta Kurimaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 21,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209230/clover%20hill/Bunta_e1zgns.png',
+                description: 'Photographer'
             },
             {
                 name: 'Yusuke Sakuraba',
-                age: 5,
-                image: '',
-                description: ''
+                age: 24,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209231/clover%20hill/Yusuke_mxzkpg.png',
+                description: 'Painter'
             },
             {
                 name: 'Chihiro Kikuhara',
-                age: 5,
-                image: '',
-                description: ''
+                age: 24,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209230/clover%20hill/Chihiro_lnd0qm.png',
+                description: 'Musician'
             },
             {
                 name: 'Shokichi Kuramoto',
-                age: 5,
-                image: '',
-                description: ''
+                age: 18,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209230/clover%20hill/Shokichi_o2kimn.png',
+                description: 'Sculptor'
             },
             {
-                name: 'kazuto Horai',
-                age: 5,
-                image: '',
-                description: ''
+                name: 'KSazuto Horai',
+                age: 29,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209230/clover%20hill/Kazuto_tpfauv.png',
+                description: 'Landlord'
             },
             {
                 name: 'Daisuke Asahina',
-                age: 5,
-                image: '',
-                description: ''
+                age: 19,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209230/clover%20hill/Daisuke_ieef6e.png',
+                description: 'Sculpting student'
             },
             {
                 name: 'Akio Tsubaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 22,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640209231/clover%20hill/Akio_ybcw3k.png',
+                description: 'Design student'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Kiss_Me_on_Clover_Hill_-_Title_ce46ya.jpg',
