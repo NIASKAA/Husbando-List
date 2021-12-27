@@ -1095,51 +1095,57 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Hiroshi Kirisawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 29,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Hiroshi_fxto54.png',
+                description: 'Head of 2nd unit, dependable and kind'
             },
             {
                 name: 'Kazusa Hanai',
-                age: 5,
-                image: '',
-                description: ''
+                age: 26,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Kazusa_momvhq.png',
+                description: 'Extremely intelligent and excellent leadership'
             },
             {
                 name: 'Yutaka Tennjoi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 26,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Yutaka_w8ots4.png',
+                description: 'Brash, straightforward and hot-headed'
             },
             {
                 name: 'Tadanobu Nomura',
-                age: 5,
-                image: '',
-                description: ''
+                age: 33,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213097/metro%20pd/Nomura_x6lfk4.png',
+                description: 'Original founder of 2nd unit and currently deputy chief of MPD'
             },
             {
                 name: 'Shusuke Asano',
-                age: 5,
-                image: '',
-                description: ''
+                age: 24,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Asano_wnvjrf.png',
+                description: 'Quiet and reserved'
             },
             {
                 name: 'Eiki Yachigusa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 22,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Eiki_ut4mdq.png',
+                description: 'Youngest member of the unit'
             },
             {
                 name: 'Katsuyuki Kyosbashi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Katsuyuki_ngwiag.png',
+                description: 'Pervert unit'
             },
             {
                 name: 'Ryohei Kimura',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Ryohei_vx1rry.png',
+                description: 'Crime scene investigator who quiet and kind'
+            },
+            {
+                name: 'Masashi Himuro',
+                age: 33,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213096/metro%20pd/Masashi_vq398f.png',
+                description: 'Medical exmainer'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/Mpd_start_uh4em1.png',
@@ -1152,33 +1158,33 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Masaomi Hibiya',
-                age: 5,
-                image: '',
-                description: ''
+                age: 28,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213176/serendipity/Masaomi_Hibiya_pgfvs9.png',
+                description: 'Famous musician  known as OMI'
             },
             {
                 name: 'Izumi Takasaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 23,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213176/serendipity/Izumi_Takasaki_u4hwk2.png',
+                description: 'Hardworking and is a part timer in a pet store'
             },
             {
                 name: 'Shinobu Narita',
-                age: 5,
-                image: '',
-                description: ''
+                age: 32,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213176/serendipity/Shinobu_Narita_khqkcf.png',
+                description: 'Kind  and mysterious'
             },
             {
                 name: 'Jinpachi Yushima',
-                age: 5,
-                image: '',
-                description: ''
+                age: 40,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213176/serendipity/Jinpachi_Yushima_azcdld.png',
+                description: 'Rude and old'
             },
             {
                 name: 'Keiichi Tokiwa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 26,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213176/serendipity/Keiichi_Tokiwa_hf8z1a.png',
+                description: 'Nice but can be petty sometimes'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127394/Sereny_fqslyg.jpg',
@@ -1191,57 +1197,57 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Eisuke Ichinomiya',
-                age: 5,
-                image: '',
-                description: ''
+                age: 29,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213259/kissed%20by%20bidder/Eisuke_vnasa2.png',
+                description: 'CEO of Ichinomiya'
             },
             {
                 name: 'Soryu Oh',
-                age: 5,
-                image: '',
-                description: ''
+                age: 28,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213260/kissed%20by%20bidder/Soryu_ebwv5y.png',
+                description: 'Second in command of Ice Dragons'
             },
             {
                 name: 'Mitsunari Baba',
-                age: 5,
-                image: '',
-                description: ''
+                age: 35,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213259/kissed%20by%20bidder/Baba_extmm6.png',
+                description: 'Infamous master thief'
             },
             {
                 name: 'Ota Kisaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 24,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213259/kissed%20by%20bidder/Ota_slfapn.png',
+                description: 'Famous artist known as Angelic Artist'
             },
             {
                 name: 'Mamoru Kishi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 30,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213259/kissed%20by%20bidder/Mamoru_jnkbaa.png',
+                description: 'Detective who is a slacker'
             },
             {
                 name: 'Shuichi Hishikura',
-                age: 5,
-                image: '',
-                description: ''
+                age: 31,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213260/kissed%20by%20bidder/Shuichi_wb0lal.png',
+                description: 'Ambassador for the Japanese government'
             },
             {
                 name: 'Luke Foster',
-                age: 5,
-                image: '',
-                description: ''
+                age: 33,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213259/kissed%20by%20bidder/Luke_zwswpq.png',
+                description: 'British black market doctor'
             },
             {
                 name: 'Hikaru Aihara',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213259/kissed%20by%20bidder/Hikaru_slpoxo.png',
+                description: 'Your friendly coworker'
             },
             {
                 name: 'Ribon Hatter',
-                age: 5,
-                image: '',
-                description: ''
+                age: 24,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213260/kissed%20by%20bidder/Rhion_ratxwy.png',
+                description: 'Literally the Mad Hatter'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Kissed_ykvf0z.png',
@@ -1254,45 +1260,45 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Taketo Kanzaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213343/class%20trip%20crush/Taketo_Kanzaki_m0qpbt.png',
+                description: 'Star player of the soccer team'
             },
             {
                 name: 'Yasuto Kanzaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213343/class%20trip%20crush/Yasuto_Kanzaki_iznro7.png',
+                description: 'Ace baseball player'
             },
             {
                 name: 'Kanji Okumiya',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213343/class%20trip%20crush/Kanji_Okumiya_hbyv0h.png',
+                description: 'Rich boy that is extremely firtatious and bold'
             },
             {
                 name: 'Homare Midorikawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213343/class%20trip%20crush/Homare_Midorikawa_xhgz01.png',
+                description: 'Pompous smart jerk'
             },
             {
                 name: 'Nagisa Ichinose',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213343/class%20trip%20crush/Nagisa_Ichinose_yt3aw2.png',
+                description: 'Famous celebrity'
             },
             {
                 name: 'Rintaro Ashiya',
-                age: 5,
+                age: 00,
                 image: '',
-                description: ''
+                description: "Nagisa's Manager"
             },
             {
                 name: 'Hajime Shindo',
-                age: 5,
+                age: 00,
                 image: '',
-                description: ''
+                description: 'Coming soon...'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127390/CCL_zybjss.png',
@@ -1306,19 +1312,19 @@ const stories_Seeds = [
             {
                 name: 'Ryota Mochizuki',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213408/private%20homeroom/Ryota_kowltq.png',
                 description: ''
             },
             {
                 name: 'Yohji Furuya',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213408/private%20homeroom/Yohji_awmlcw.png',
                 description: ''
             },
             {
                 name: 'Shuya Komaki',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213409/private%20homeroom/Shuya_lcsvpn.png',
                 description: ''
             },
         ],
