@@ -1311,21 +1311,21 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Ryota Mochizuki',
-                age: 5,
+                age: 00,
                 image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213408/private%20homeroom/Ryota_kowltq.png',
-                description: ''
+                description: 'Your homeroom math teacher'
             },
             {
                 name: 'Yohji Furuya',
-                age: 5,
+                age: 00,
                 image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213408/private%20homeroom/Yohji_awmlcw.png',
-                description: ''
+                description: 'Music teacher for third-year students'
             },
             {
                 name: 'Shuya Komaki',
-                age: 5,
+                age: 00,
                 image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213409/private%20homeroom/Shuya_lcsvpn.png',
-                description: ''
+                description: 'Japanese literature teacher'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/3F_3F_3F_3F_3F_3F_3F_3F_3F_-_Title_s9w2ha.jpg',
@@ -1338,57 +1338,57 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Minato Okouchi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 27,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213494/our%20two%20bedroom%20story/Minato_e2ypju.png',
+                description: 'Star editor of Seasonelle'
             },
             {
                 name: 'Kaoru Kirishima',
-                age: 5,
-                image: '',
-                description: ''
+                age: 26,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213494/our%20two%20bedroom%20story/Kaoru_njrlik.png',
+                description: 'Quiet and reserved'
             },
             {
                 name: 'Shusei Hayakawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 27,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213495/our%20two%20bedroom%20story/Shusei_cswhng.png',
+                description: 'Referred to as "Mr.Perfect" by his coworkers'
             },
             {
                 name: 'Chiaki Yuasa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213495/our%20two%20bedroom%20story/Chiaki_ot2uig.png',
+                description: 'Favorite among women because of his looks'
             },
             {
                 name: 'Akiyoshi Zaizen',
-                age: 5,
-                image: '',
-                description: ''
+                age: 29,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213495/our%20two%20bedroom%20story/Akiyoshi_rk0upk.png',
+                description: 'Chief editor of Seasonelle'
             },
             {
                 name: 'Tsumugu Kido',
-                age: 5,
-                image: '',
-                description: ''
+                age: 27,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213495/our%20two%20bedroom%20story/Tsumugu_alsj2g.png',
+                description: 'Very polite and clean-cut at work but rude at home'
             },
             {
                 name: 'Ayame Suo',
-                age: 5,
-                image: '',
-                description: ''
+                age: 27,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213494/our%20two%20bedroom%20story/Ayame_fomegi.png',
+                description: 'Chief editor of Saison'
             },
             {
                 name: 'Hinata Yayoi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213495/our%20two%20bedroom%20story/Hinata_gl6b9l.png',
+                description: 'Coming soon'
             },
             {
                 name: 'Kagetora Oji',
-                age: 5,
+                age: 00,
                 image: '',
-                description: ''
+                description: 'Coming soon...'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/2LDK_mg05jc.png',
@@ -1401,33 +1401,33 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Issei Sezaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 36,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213591/kiss%20of%20revenge/Issei_mysrz2.png',
+                description: "Son of hospital's director and a surgeon"
             },
             {
                 name: 'Junpei Miyashita',
-                age: 5,
-                image: '',
-                description: ''
+                age: 29,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213591/kiss%20of%20revenge/Junpei_hkcauq.png',
+                description: 'Medical supply representative for the hospital'
             },
             {
                 name: 'Soichiro Irie',
-                age: 5,
-                image: '',
-                description: ''
+                age: 40,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213591/kiss%20of%20revenge/Soichiiro_bs8ngg.png',
+                description: "Director Sezaki's assistant also a surgeon"
             },
             {
                 name: 'Kyosuke Narumi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 32,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213591/kiss%20of%20revenge/Kyosuke_28KOR_29_wks2gc.png',
+                description: 'Good-natured physician'
             },
             {
                 name: 'Naoya Hasegawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 22,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213591/kiss%20of%20revenge/Naoya_dahiwn.png',
+                description: 'University student who has connections with new director and your father'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Kiss_of_Revenge_Title_xjjb3i.jpg',
@@ -1440,45 +1440,45 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Kakeru Kamui',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213648/10%20days%20devil/Kakeru_Kamui_a9dc8g.png',
+                description: 'Leader of the demons and the prince of Demon King'
             },
             {
                 name: 'Satoru Kamagari',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213648/10%20days%20devil/Satoru_Kamagari_ecn0dn.png',
+                description: "Vice-captain of Kakeru's group"
             },
             {
                 name: 'Shiki Kurobane',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213647/10%20days%20devil/Shiki_Kurobane_ixbiyu.png',
+                description: 'brain of the group and maintains Fate Database'
             },
             {
                 name: 'Haruhito Amano',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213648/10%20days%20devil/Haruhito_Amano_ax6qxi.png',
+                description: 'Easygoing of the group'
             },
             {
                 name: 'Meguru Kamui',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213648/10%20days%20devil/Meguru_Kamui_vlgjxe.png',
+                description: 'Youngest member of the group'
             },
             {
                 name: 'Rein Isaka',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213648/10%20days%20devil/Rein_Isaka_corwdm.png',
+                description: 'An angel who tries to capture you'
             },
             {
                 name: 'Tsubasa Shirai',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213648/10%20days%20devil/Tsubasa_Shirai_yugdgm.png',
+                description: 'An angel'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/10dayswithmydevil_ahdgs9.jpg',
@@ -1491,51 +1491,51 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Haruki Tanemura',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Haruki_q37zlw.png',
+                description: 'Warm, friendly and kind. Runs a flower shop'
             },
             {
                 name: 'Ryuzo Hatta',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Ryuzo_oxrk64.png',
+                description: 'Works at vegetable store. Brash and rather clueless'
             },
             {
                 name: 'Ichigo Sato',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Ichigo_ihaapb.png',
+                description: 'Has a crush on you since you were little. Works in bakery store'
             },
             {
                 name: 'Takeshi Yuno',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Takeshi_t8d3va.png',
+                description: 'Member of track team. Sometimes a cold person'
             },
             {
                 name: 'Rihito Hatsune',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Rihito_x74cs2.png',
+                description: 'Flirt to most women and plays the piano very well'
             },
             {
                 name: 'Johji Chakura',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Johji_mpc1ig.png',
+                description: 'Owner of cafe Black Ship'
             },
             {
                 name: 'Koh Uraga',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Koh_kkqno0.png',
+                description: 'Works part time at cafe Black Ship'
             },
             {
                 name: 'Reiji Uraga',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213709/dreamy%20days/Reiji_nwghlg.png',
+                description: 'Works at cafe Black Ship and is extremely popular with the females'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/Drmy_ksffdg.png',
@@ -1548,45 +1548,45 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Toranosuke Hajime',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213812/office%20secrets/Toranosuke_Hajime_usj3ge.png',
+                description: 'Arrogant overachiever'
             },
             {
                 name: 'Ryoma Shirasagi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 27,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213812/office%20secrets/Ryoma_Shirasagi_o8zu75.png',
+                description: 'Manager of New Business Development Department. A perfectionist'
             },
             {
                 name: 'Shota Kurumi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 22,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213812/office%20secrets/Shota_Kurumi_uk4snw.png',
+                description: 'Joined Infinite Inc. Extradordinary and passionate'
             },
             {
                 name: 'Junya Sakurazawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213812/office%20secrets/Junya_Sakurazawa_pxkdwe.png',
+                description: "Grandson of Infinite Inc's owner. Always calm and smiling"
             },
             {
                 name: 'Koji Nagumo',
-                age: 5,
-                image: '',
-                description: ''
+                age: 23,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213812/office%20secrets/Koji_Nagumo_byw9sy.png',
+                description: 'Joined Infinite Inc 2 years ago. Has crush on you'
             },
             {
                 name: 'Shingo Kai',
-                age: 5,
-                image: '',
-                description: ''
+                age: 24,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213812/office%20secrets/Shingo_Kai_dseb5b.png',
+                description: 'Works in Maruyama Inc. often unsociable and seemingly emotionless'
             },
             {
                 name: 'Tamotsu Goda',
-                age: 5,
-                image: '',
-                description: ''
+                age: 34,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213812/office%20secrets/Tamotsu_Goda_wztyii.png',
+                description: 'Senior Manager of New Business Development Department. Easy going and relaxed'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127393/Office_Secrets_Title_mtjorg.jpg',
@@ -1599,33 +1599,33 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Lute',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213899/knight%20devotion/Lute_cxstuw.png',
+                description: 'Very kind and a loyal kinght'
             },
             {
                 name: 'Haku',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213898/knight%20devotion/Haku_jrwt25.png',
+                description: 'Arrogant knight who plays with feelings'
             },
             {
                 name: 'Ken',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213899/knight%20devotion/Ken_ublghf.png',
+                description: 'A blacksmith in the village'
             },
             {
                 name: 'Shion',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213899/knight%20devotion/Shion_o2mnkd.png',
+                description: 'Often seen reading instead of helping others'
             },
             {
                 name: 'Gaia',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213899/knight%20devotion/Gaia_qbcbwu.png',
+                description: 'Loyal to his duties but a very kind person'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127388/A_Knight_s_Devotion_u6ob7o.jpg',
@@ -1638,63 +1638,63 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Subaru Ichiyanagi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Subaru_Ichiyanagi_mustyf.png',
+                description: 'An Otomen, good at housework and cooking'
             },
             {
                 name: 'Kaiji Akizuki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Kaiji_Akizuki_i8jspi.png',
+                description: 'Your childhood friend'
             },
             {
                 name: 'Sora Hirosue',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Sora_Hirosue_utbd34.png',
+                description: 'A flirt who is popular with women'
             },
             {
                 name: 'Mizuki Fujisaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Mizuki_Fujisaki_aay4ou.png',
+                description: 'Former child idol'
             },
             {
                 name: 'Daichi Katsuragi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Daichi_Katsuragi_fjzsc0.png',
+                description: 'Leader of bodyguards'
             },
             {
                 name: 'Hideki Ishigami',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Hideki_Ishigami_a27ght.png',
+                description: 'Top detective in Public Security Division'
             },
             {
-                name: 'Seigi Goto',
-                age: 5,
-                image: '',
-                description: ''
+                name: 'Seiji Goto',
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Seiji_Goto_mticgf.png',
+                description: "Member of Ishigami's team"
             },
             {
                 name: 'Toru Kurosawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Toru_Kurosawa_s74j7y.png',
+                description: 'Member of the Public Security Division'
             },
             {
                 name: 'Kenta Makabe',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Kenta_Makabe_ifsxxj.png',
+                description: "Police officer who is guarding the Prime Minister's mansion"
             },
             {
                 name: 'Eiji Kiyosumi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640213995/bodyguard/Eiji_Kiyosumi_oeyj1l.png',
+                description: 'Half British and half Japanese. Assigned to project MC when she goes to Londom'
             }
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127391/Koibitosp_ierhwe.png',
@@ -1707,57 +1707,57 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Takuto Hirukawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 24,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214060/thief%20x/Takuro_fvejig.png',
+                description: 'A genius hacker of the Black Foxes'
             },
             {
                 name: 'Kenshi Inagaki',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214061/thief%20x/Kenshi_utlwns.png',
+                description: 'A sniper and entry expert'
             },
             {
                 name: 'Hiro Sarashina',
-                age: 5,
-                image: '',
-                description: ''
+                age: 21,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214061/thief%20x/Hiro_g216ep.png',
+                description: 'Master of disguise with an IQ of 180'
             },
             {
                 name: 'Riki Yanase',
-                age: 5,
-                image: '',
-                description: ''
+                age: 27,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214060/thief%20x/Riki_dduqb2.png',
+                description: 'Leader of Black Foxes'
             },
             {
                 name: 'Atsumu Kashiwabara',
-                age: 5,
-                image: '',
-                description: ''
+                age: 35,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214060/thief%20x/Atsumu_fm3l2y.png',
+                description: 'Boss of Black Foxes  and owns Le Renard Noir bar'
             },
             {
                 name: 'Tatsuro Togoshi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214060/thief%20x/Tatsuro_eyukhr.png',
+                description: 'A childhood friend and a detective who wants to capture the Black Foxes'
             },
             {
                 name: 'Yuki Arisugawa',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214061/thief%20x/Yuki_fzbyq5.png',
+                description: 'Myserious FBI agent'
             },
             {
                 name: 'Hyosuke Kujo',
-                age: 5,
-                image: '',
-                description: ''
+                age: 25,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214061/thief%20x/Hyosuke_rokm8r.png',
+                description: 'Security Specialist'
             },
             {
                 name: 'Taiga Kujo',
-                age: 5,
-                image: '',
-                description: ''
+                age: 29,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214060/thief%20x/Taiga_ljwbsl.png',
+                description: 'A doctor with a dark side'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127392/Love_Letter_From_Thief_X_Title_twa7ie.jpg',
@@ -1770,33 +1770,33 @@ const stories_Seeds = [
         characters: [
             {
                 name: 'Nozomu Kaneko',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214146/destiny%20comes%20knocking/Nozomu_v5tjwm.png',
+                description: 'Calm, cool and collected CEO of Upgram'
             },
             {
                 name: 'Rheo Usami',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214146/destiny%20comes%20knocking/Rheo_jcercl.png',
+                description: 'Popular singer-songwriter known as REO'
             },
             {
                 name: 'Seiya Fushimi',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214146/destiny%20comes%20knocking/Seiya_mt5zfu.png',
+                description: 'Mysterious graduate student. Also a popular Upgrammer known as anderson70'
             },
             {
                 name: 'Wataru Toge',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214146/destiny%20comes%20knocking/Wataru_headshot_wbbhoq.png',
+                description: 'Your childhood friend. He is kabuki actor that goes by stage name Enzo Ichizono'
             },
             {
                 name: 'Shintaro Ando',
-                age: 5,
-                image: '',
-                description: ''
+                age: 00,
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214146/destiny%20comes%20knocking/Shintaro_headshot_aclyv9.png',
+                description: 'Traven agency and a star employee'
             },
         ],
         image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640127394/When_Destiny_Comes_Knocking_-_Title_wuvrwt.png',
@@ -1810,55 +1810,55 @@ const stories_Seeds = [
             {
                 name: 'Genji Higashiyama',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214220/in%20your%20arms%20tonight/Genji_Higashiyama_ebf9d0.png',
                 description: ''
             },
             {
                 name: 'Shohei Aiba',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214220/in%20your%20arms%20tonight/Shohei_Aiba_eukhbz.png',
                 description: ''
             },
             {
                 name: 'Kiyoto Makimura',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214219/in%20your%20arms%20tonight/Kiyoto_Makimura_wirhaz.png',
                 description: ''
             },
             {
                 name: 'Kippei Ebihara',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214219/in%20your%20arms%20tonight/Kippei_Ebihara_upqtls.png',
                 description: ''
             },
             {
                 name: 'Ritsu Moriyama',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214219/in%20your%20arms%20tonight/Ritsu_Moriyama_bgqon3.png',
                 description: ''
             },
             {
                 name: 'Koichi Natsukawa',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214219/in%20your%20arms%20tonight/Koichi_Natsukawa_wnstco.png',
                 description: ''
             },
             {
                 name: 'Ginnosuke Oguri',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214219/in%20your%20arms%20tonight/Ginnosuke_Oguri_r3ytmc.png',
                 description: ''
             },
             {
                 name: 'Soji Higashiyama',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214219/in%20your%20arms%20tonight/Soji_Higashiyama_m7egnu.png',
                 description: ''
             },
             {
                 name: 'Tsukasa Niregi',
                 age: 5,
-                image: '',
+                image: 'https://res.cloudinary.com/ddg9uckpr/image/upload/v1640214220/in%20your%20arms%20tonight/Tsukasa_Niregi_ccmii8.png',
                 description: ''
             },
         ],
