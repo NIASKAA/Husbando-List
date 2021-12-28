@@ -4,7 +4,7 @@ const {Profile} = require('./profileSeed');
 
 data.once("open", async () => {
     try {
-        await  Stories();
+        await Stories();
         await Profile();
         console.log('All data seeded');
         process.exit(0);

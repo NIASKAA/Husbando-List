@@ -11,7 +11,7 @@ const singleProfile = [
 
 const Profile = async () => {
     try {
-        const profile = await ProfileModel.insert(singleProfile);
+        const profile = await ProfileModel.insertMany(singleProfile);
         console.log(profile);
         return;
     } catch (error) {

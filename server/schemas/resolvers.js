@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-const {ProfileModel, StoriesModel, CharactersModel} = require('../models');
-=======
 const {ProfileModel, StoriesModel} = require('../models');
->>>>>>> 3dbee1a36b8d471648cc80b2ba1ebbf07bbcd76e
 
 const resolvers = {
     Query: {
@@ -15,12 +11,6 @@ const resolvers = {
         getStories: async () => {
             return await StoriesModel.find({});
         },
-<<<<<<< HEAD
-        getCharacter: async () => {
-            return await CharactersModel.find({});
-        }
-=======
->>>>>>> 3dbee1a36b8d471648cc80b2ba1ebbf07bbcd76e
     },
     mutations: {}
 }
