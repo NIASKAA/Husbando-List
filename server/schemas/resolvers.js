@@ -1,5 +1,5 @@
 const {ProfileModel, StoriesModel} = require('../models');
-
+const {signToken} = require('../auth')
 const resolvers = {
     Query: {
         profile: async (context) => {
@@ -12,7 +12,6 @@ const resolvers = {
             return await StoriesModel.find({});
         },
     },
-    mutations: {}
 }
 
 module.exports = resolvers;
