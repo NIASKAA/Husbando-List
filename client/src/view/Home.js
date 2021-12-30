@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import {StyleSheet, TouchableOpacity} from 'react-native';
-import {SectionList, Box, Heading} from 'native-base';
+import {FlatList, Box, Heading, Center, Text, Spinner, Image} from 'native-base';
 import {useDispatch, useSelector} from "react-redux";
 import {useQuery} from "@apollo/client";
 import {GET_ALL_STORIES} from '../utils/queries';
@@ -26,7 +26,6 @@ const Home = () => {
                 setAllStories(getStories)
             }
         }
-        console.log(data);
     }, [loading, data]);
 
     useEffect(() => {
@@ -35,16 +34,27 @@ const Home = () => {
         }, 3000);
     }, [loadStories]);
 
+    if (loading) return <Spinner accessibilityLabel="Loading posts" />
+    
     return (
         <Box
             w={{
                 base: "100%",
-                md: "25%",
+                md: "100%",
             }}
         >
-            <Heading fontSize="xl" p="4" pb="3">
-                Inbox
-            </Heading>
+            
+            <FlatList
+                px="12"
+                mb="4"
+            data={allStories}
+            renderItem={({item, index}) => (
+                <TouchableOpacity key={index._id}>
+                    <Image width={500} height={150} resizeMode={"cover"} source={{uri: item.image}} alt={item.name}/>
+                </TouchableOpacity>
+            )}
+            />
+            
             <Footer/>
         </Box>
     )
