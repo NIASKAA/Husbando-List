@@ -6,7 +6,7 @@ export const reducers = (state, action) => {
             return {
                 ...state,
                 getStories: action.payload
-            }
+            };
         default: 
             return state;
     }

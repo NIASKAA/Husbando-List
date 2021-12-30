@@ -17,15 +17,9 @@ function RootNavigator() {
     return (
         <Stack.Navigator>
             <Stack.Screen
-              name="Splash"
-              component={SplashView}
-              options={{headerShown: false,}}
-            />
-
-            <Stack.Screen
               name="Home"
               component={Home}
-              options={{headerShown: false,}}
+              options={{headerShown: true}}
             />
         </Stack.Navigator>
     )

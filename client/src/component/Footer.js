@@ -15,7 +15,6 @@ import {
     Center,
     Pressable,
   } from 'native-base';
-import { MaterialCommunityIcons, MaterialIcons } from '@expo/vector-icons';
 
 const Footer = () => {
     const navigation = useNavigation();
@@ -31,17 +30,7 @@ const Footer = () => {
                         flex={1}
                         onPress={() => setSelected(0)}>
                         <Center>
-                        <Icon
-                            mb="1"
-                            as={
-                            <MaterialCommunityIcons
-                                name={selected === 0 ? 'home' : 'home-outline'}
-                            />
-                            }
-                            color="white"
-                            size="sm"
-                        />
-                        <Text color="white" fontSize="12">
+                        <Text color="black" fontSize="12">
                             Home
                         </Text>
                         </Center>
@@ -53,17 +42,7 @@ const Footer = () => {
                         flex={1}
                         onPress={() => setSelected(0)}>
                         <Center>
-                        <Icon
-                            mb="1"
-                            as={
-                            <MaterialCommunityIcons
-                                name={selected === 0 ? 'search' : 'home-outline'}
-                            />
-                            }
-                            color="white"
-                            size="sm"
-                        />
-                        <Text color="white" fontSize="12">
+                        <Text color="black" fontSize="12">
                             Search
                         </Text>
                         </Center>
@@ -76,13 +55,7 @@ const Footer = () => {
                         onPress={() => setSelected(1)}
                     >
                         <Center>
-                        <Icon
-                            mb="1"
-                            as={<MaterialIcons name="search" />}
-                            color="white"
-                            size="sm"
-                        />
-                        <Text color="white" fontSize="12">
+                        <Text color="black" fontSize="12">
                             Favorite Stories
                         </Text>
                         </Center>
@@ -95,12 +68,6 @@ const Footer = () => {
                         onPress={() => setSelected(1)}
                     >
                         <Center>
-                        <Icon
-                            mb="1"
-                            as={<MaterialIcons name="search" />}
-                            color="white"
-                            size="sm"
-                        />
                         <Text color="white" fontSize="12">
                             Favorite Characters
                         </Text>
