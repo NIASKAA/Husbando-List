@@ -10,15 +10,13 @@ import Navigation from './navigation/Navigation';
 const App = () => {
 
   return (
-    <NativeBaseProvider>
       <ApolloProvider client={client}>
-        <Provider store={store}>
-          <Container>
-              <Navigation/>
-          </Container>
-        </Provider>
+        <NativeBaseProvider>
+            <Provider store={store}>
+                <Navigation/>
+            </Provider>
+        </NativeBaseProvider>
       </ApolloProvider>
-    </NativeBaseProvider>
   );
 };
 
