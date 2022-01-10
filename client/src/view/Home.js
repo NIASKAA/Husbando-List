@@ -1,12 +1,13 @@
 import React, {useEffect, useState} from 'react';
-import {StyleSheet, TouchableOpacity} from 'react-native';
-import {FlatList, Box, Heading, Center, Text, Spinner, Image} from 'native-base';
+import {TouchableOpacity} from 'react-native';
+import {FlatList, Box, Spinner, Image, Heading, Text} from 'native-base';
 import {useDispatch, useSelector} from "react-redux";
 import {useQuery} from "@apollo/client";
 import {GET_ALL_STORIES} from '../utils/queries';
 import {GET_STORIES} from '../utils/state/actions';
 import {useNavigation} from '@react-navigation/native';
-import Footer from '../component/Footer';
+import FooterTab from '../component/Footer'
+import BottomNavigation from '../component/Footer';
 
 const Home = () => {
     const navigation = useNavigation();
@@ -37,26 +38,21 @@ const Home = () => {
     if (loading) return <Spinner accessibilityLabel="Loading posts" />
     
     return (
-        <Box
-            w={{
-                base: "100%",
-                md: "100%",
-            }}
-        >
+        <>
             
-            <FlatList
-                px="12"
-                mb="4"
-            data={allStories}
-            renderItem={({item, index}) => (
-                <TouchableOpacity key={index._id}>
-                    <Image width={500} height={150} resizeMode={"cover"} source={{uri: item.image}} alt={item.name}/>
-                </TouchableOpacity>
-            )}
-            />
-            
-            <Footer/>
-        </Box>
+                <FlatList
+                    px="2"
+                    mb="4"
+                data={allStories}
+                renderItem={({item, index}) => (
+                    <TouchableOpacity onPress={() => navigation.navigate('StoryInfo', item)} key={index._id}>
+                        <Image width={500} height={150} resizeMode={"cover"} source={{uri: item.image}} alt={item.name}/>
+                    </TouchableOpacity>
+                )}
+                />
+            <BottomNavigation/> 
+        </>
+
     )
 }
 
