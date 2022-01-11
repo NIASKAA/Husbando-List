@@ -2,6 +2,7 @@ import React from 'react'
 import {TouchableOpacity} from 'react-native';
 import {Card, Box, Spinner, Image, Heading, Text} from 'native-base';
 import BottomNavigation from '../component/Footer';
+import CharacterInfoCard from '../component/CharacterInfoCard';
 import {useNavigation} from '@react-navigation/native';
 
 const StoryInfo = ({route}) => {
@@ -19,7 +20,7 @@ const StoryInfo = ({route}) => {
                     <Text>{translation}</Text>
                     <Text>{release_Date}</Text>
                     {route.map(() => (
-                        <TouchableOpacity>{characters.name}</TouchableOpacity>
+                        <CharacterInfoCard character={characters} key={characters.id}/>
                     ))}
                 </Body>
                 </CardItem>
@@ -27,7 +28,7 @@ const StoryInfo = ({route}) => {
                 <Text>GeekyAnts</Text>
             </CardItem>
         </Card>
-        
+
         <BottomNavigation/>
       </>
     )
