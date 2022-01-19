@@ -6,6 +6,7 @@ import CharacterInfoCard from '../component/CharacterInfoCard';
 import {useNavigation} from '@react-navigation/native';
 
 const StoryInfo = ({route, item}) => {
+    const navigation = useNavigation();
     const {name, image, characters, seasons, translation, release_Date} = route.params;
 
     return (
@@ -16,7 +17,7 @@ const StoryInfo = ({route, item}) => {
                 <Text>Name: {name}</Text>
                 <Text>Characters: </Text>
                 {characters.map((item) => (
-                    <TouchableOpacity>
+                    <TouchableOpacity onPress={() => navigation.navigate('CharacterInfoCard', item)}>
                         <Image source={{uri: item.image}} alt={item.name} width={100} height={100}/>
                     </TouchableOpacity>
                 ))}
