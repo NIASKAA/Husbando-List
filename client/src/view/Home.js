@@ -45,7 +45,7 @@ const Home = () => {
                     mb="4"
                 data={allStories}
                 renderItem={({item, index}) => (
-                    <TouchableOpacity onPress={() => navigation.navigate('StoryInfo', item)} key={index._id}>
+                    <TouchableOpacity onPress={() => navigation.navigate('StoryInfo', item)}>
                         <Image width={500} height={150} resizeMode={"cover"} source={{uri: item.image}} alt={item.name}/>
                     </TouchableOpacity>
                 )}

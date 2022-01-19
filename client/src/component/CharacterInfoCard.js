@@ -6,7 +6,7 @@ import {useNavigation} from '@react-navigation/native';
 const CharacterInfoCard = ({characters}) => {
     return (
         <>
-            <TouchableOpacity onPress={}>
+            <TouchableOpacity>
                 <Image source={{uri: image}}/>
                 <Text>{name}</Text>
             </TouchableOpacity>

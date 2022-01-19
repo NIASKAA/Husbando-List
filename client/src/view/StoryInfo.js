@@ -1,35 +1,25 @@
 import React from 'react'
 import {TouchableOpacity} from 'react-native';
-import {Card, Box, Spinner, Image, Heading, Text} from 'native-base';
+import {Card, Box, CardItem, Image, Heading, Text, Body} from 'native-base';
 import BottomNavigation from '../component/Footer';
 import CharacterInfoCard from '../component/CharacterInfoCard';
 import {useNavigation} from '@react-navigation/native';
 
 const StoryInfo = ({route}) => {
-    const {name, image, characters, seasons, translation, release_Date} = route.params
+    const {name, image, characters, seasons, translation, release_Date} = route.params;
+    console.log(characters);
+        
     return (
       <>
-        <Card>
-            <CardItem header bordered>
-                <Text>{name}</Text>
-                </CardItem>
-                <Image source={{uri: image}} alt={name}/>
-                <CardItem bordered>
-                <Body>
-                    <Text>{seasons}</Text>
-                    <Text>{translation}</Text>
-                    <Text>{release_Date}</Text>
-                    {route.map(() => (
-                        <CharacterInfoCard character={characters} key={characters.id}/>
-                    ))}
-                </Body>
-                </CardItem>
-                <CardItem footer bordered>
-                <Text>GeekyAnts</Text>
-            </CardItem>
-        </Card>
-
-        <BottomNavigation/>
+        <Box>
+            <Card>
+                <Image source={{uri: image}} width={500} height={150} alt={name}/>
+                <Text>Name: {name}</Text>
+                <Text>Japanese Translation: {translation}</Text>
+                <Text>Seasons: {seasons}</Text>
+                <Text>Release Date: {release_Date}</Text>
+            </Card>
+        </Box>
       </>
     )
 }
