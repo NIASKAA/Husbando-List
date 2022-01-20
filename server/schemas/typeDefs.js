@@ -34,6 +34,9 @@ const typeDefs = gql`
 
     type Mutation {
         addToAlreadyRead(name: String! id: ID): ProfileModel
+        addToFavoriteStories(name: String! id: ID): ProfileModel
+        deleteAlreadyRead(storyID: ID! id: ID): ProfileModel
+        deleteFavorites(storyID: ID! id: ID): ProfileModel
     }
 `;
 

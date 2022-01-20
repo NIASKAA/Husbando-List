@@ -28,6 +28,54 @@ const resolvers = {
             {
                 new: true
             })
+        },
+        addToFavoriteStories: async (context, {name, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            const toFavorites = await StoriesModel.findOne({name: name})
+            if(!toFavorites) {
+                return 'Stories Doesnt exist'
+            }
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $push: {favorite_Stories: toFavorites}
+            },
+            {
+                new: true
+            })
+        },
+        deleteAlreadyRead: async (context, {storyID, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $pull: {
+                    'already_Read': {
+                        _id: storyID
+                    }
+                }
+            },
+            {
+                new: true
+            })
+        },
+        deleteFavorites: async (context, {storyID, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $pull: {
+                    'favorite_Stories': {
+                        _id: storyID
+                    }
+                }
+            },
+            {
+                new: true
+            })
         }
     }
 }
