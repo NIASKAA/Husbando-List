@@ -3,7 +3,7 @@ const {gql} = require('apollo-server-express');
 const typeDefs = gql`
     type ProfileModel {
         _id: ID
-        already_read: [StoriesModel]
+        already_Read: [StoriesModel]
         favorite_Stories: [StoriesModel]
         favorite_Chars: [StoriesModel]
         to_Complete_List: [StoriesModel]
@@ -30,6 +30,10 @@ const typeDefs = gql`
     type Query {
         profile: [ProfileModel]
         getStories: [StoriesModel]
+    }
+
+    type Mutation {
+        addToAlreadyRead(name: String! id: ID): ProfileModel
     }
 `;
 
