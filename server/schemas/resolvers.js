@@ -85,6 +85,19 @@ const resolvers = {
             {
                 new: true
             })
+        },
+        addFavoriteCharacters: async ({characterName, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            const getFaveChars = await StoriesModel.findOne({name: characterName}).populate('characters').populate('name')
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $push: {favorite_Chars: getFaveChars}
+            },
+            {
+                new: true
+            })
         }
     }
 }

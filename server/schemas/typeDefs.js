@@ -39,6 +39,7 @@ const typeDefs = gql`
         addToFavoriteStories(name: String! id: ID): ProfileModel
         deleteAlreadyRead(storyID: ID! id: ID): ProfileModel
         deleteFavorites(storyID: ID! id: ID): ProfileModel
+        addFavoriteCharacters(characterName: String! id: ID): ProfileModel
     }
 `;
 
