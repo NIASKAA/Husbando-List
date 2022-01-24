@@ -11,6 +11,15 @@ const resolvers = {
         getStories: async () => {
             return await StoriesModel.find({});
         },
+        getUserAlreadyRead: async ({id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            const getAlreadyRead = await ProfileModel.findOne({_id: userId}).populate('already_Read').populate('name');
+            return getAlreadyRead;
+        },
+        getUserFavoritesStories: async ({id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            const getFavoritesStories = await ProfileModel.findOne({_id: userId}).populate('favorite_Stories').populate('name')
+        },
     },
     Mutation: {
         addToAlreadyRead: async (context, {name, id}) => {
