@@ -30,6 +30,8 @@ const typeDefs = gql`
     type Query {
         profile: [ProfileModel]
         getStories: [StoriesModel]
+        getUserAlreadyRead: [ProfileModel]
+        getUserFavoritesStories: [ProfileModel]
     }
 
     type Mutation {
