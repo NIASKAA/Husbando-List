@@ -97,6 +97,33 @@ const resolvers = {
             {
                 new: true
             })
+        },
+        addToCompleteList: async (context, {storyName, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $push: {to_Complete_List: storyName}
+            },
+            {
+                new: true
+            })
+        },
+        deleteCompleteList: async (context, {storyID, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $pull: {
+                    'to_Add_Complete_List': {
+                        _id: storyID
+                    }}
+            },
+            {
+                new: true
+            })
         }
     }
 }
