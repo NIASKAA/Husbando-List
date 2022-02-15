@@ -67,7 +67,7 @@ export const ADD_TO_COMPLETE_LIST = gql`
 `
 
 export const DELETE_ALREADY_READ = gql`
-    mutation deleteAlreadyRead($StoryID: String!, $id: ID) {
+    mutation deleteAlreadyRead($StoryID: ID!, $id: ID) {
         deleteAlreadyRead(StoryID: $StoryID, id: $id) {
             _id
             already_Read {
@@ -89,7 +89,7 @@ export const DELETE_ALREADY_READ = gql`
 `
 
 export const DELETE_FAVORITE_STORIES = gql`
-    mutation deleteFavorites($StoryID: String!, $id: ID) {
+    mutation deleteFavorites($StoryID: ID!, $id: ID) {
         deleteFavorites(StoryID: $StoryID, id: $id) {
             _id
             favorite_Stories {
@@ -106,6 +106,28 @@ export const DELETE_FAVORITE_STORIES = gql`
                 translation
                 release_Date
             }
+        }
+    }
+`
+
+export const DELETE_COMPLETE_STORY = gql`
+    mutation deleteCompleteStory($StoryID: ID!, $id: ID) {
+        deleteCompleteStory(StoryID:, $Story, id: $id) {
+            _id
+            to_Complete_List {
+                _id
+                name
+                characters {
+                    name
+                    age
+                    image
+                    description
+                }
+            }
+            image
+            seasons
+            translation
+            release_Date
         }
     }
 `

@@ -117,9 +117,10 @@ const resolvers = {
             },
             {
                 $pull: {
-                    'to_Add_Complete_List': {
+                    'to_Complete_List': {
                         _id: storyID
-                    }}
+                    }
+                }
             },
             {
                 new: true
