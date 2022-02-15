@@ -86,14 +86,40 @@ const resolvers = {
                 new: true
             })
         },
-        addFavoriteCharacters: async ({characterName, id}) => {
+        addFavoriteCharacters: async (context, {storyName, characterName, id}) => {
             let userId = await ProfileModel.findById({_id: id});
-            const getFaveChars = await StoriesModel.findOne({name: characterName}).populate('characters').populate('name')
             return await ProfileModel.findOneAndUpdate({
                 _id: userId
             },
             {
-                $push: {favorite_Chars: getFaveChars}
+                $push: {favorite_Chars: characterName}
+            },
+            {
+                new: true
+            })
+        },
+        addToCompleteList: async (context, {storyName, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $push: {to_Complete_List: storyName}
+            },
+            {
+                new: true
+            })
+        },
+        deleteCompleteList: async (context, {storyID, id}) => {
+            let userId = await ProfileModel.findById({_id: id});
+            return await ProfileModel.findOneAndUpdate({
+                _id: userId
+            },
+            {
+                $pull: {
+                    'to_Add_Complete_List': {
+                        _id: storyID
+                    }}
             },
             {
                 new: true
